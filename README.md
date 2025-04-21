@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 Desenvolverdor Front-end
 - 📚 Cusando 4° periodo em análise e desenvolvimento de sistemas
-- 🌱 Atualemente estudando kotlin
+- 🌱 Atualmente estudando springboot e kotlin 📱
 
 <div>
   <img height="180px" alt="Status github" src="https://github-readme-stats.vercel.app/api?username=raf1d3&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true">  
