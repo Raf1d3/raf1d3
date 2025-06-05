@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🌱 Atualmente, estou estudando Spring Boot e Kotlin. 📱
 
 <div>
-  <img height="180px" alt="Status github" src="https://github-readme-stats.vercel.app/api?username=raf1d3&theme=dark&show_icons=true&hide_border=true&count_private=true">  
+  <img height="180px" alt="Status github" src="https://github-readme-stats.vercel.app/api?username=raf1d3&theme=transparent&show_icons=true&hide_border=true&count_private=true">  
   </img>
-  <img height="180px" alt="linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf1d3&theme=dark&show_icons=true&hide_border=true&layout=compact">  
+  <img height="180px" alt="linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf1d3&theme=transparent&show_icons=true&hide_border=true&layout=compact">  
   </img>
 </div>
 <div style="display: inline_block"><br>
