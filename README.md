@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 👨‍💻 Desenvolvedor Front-end
-- 📚 Cursando 4° periodo em análise e desenvolvimento de sistemas
-- 🌱 Atualmente, estou estudando Spring Boot e Kotlin. 📱
+- 📚 Cursando 5° periodo em análise e desenvolvimento de sistemas
+- 🌱 Atualmente, estou estudando React e NestJS. 💻
 
 <div>
   <img height="180px" alt="Status github" src="https://github-readme-stats.vercel.app/api?username=raf1d3&theme=transparent&show_icons=true&hide_border=true&count_private=true">  
