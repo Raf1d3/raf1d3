@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-👨‍💻 Desenvolvedor Full Stack
-🔧 Desenvolvimento de APIs REST e aplicações web
-🚀 Sempre explorando novas tecnologias e boas práticas
-📚 Focado em evolução contínua e desenvolvimento de software
+- 👨‍💻 Desenvolvedor Full Stack
+- 🔧 Desenvolvimento de APIs REST e aplicações web
+- 🚀 Sempre explorando novas tecnologias e boas práticas
+- 📚 Focado em evolução contínua e desenvolvimento de software
 
 <div style="display: inline_block"><br>
   <img align="center" height="40px" alt="linguagem javaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
